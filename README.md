@@ -8,5 +8,5 @@ My name is Rafael Masson, I'm a computer science student from France and current
 
 ## 📫 Connect with me
 
-[<img src="img/linkedin.png">](https://www.linkedin.com/in/rafaelmasson40)
-[<img src="img/myImage.png">](https://rafaelmasson4.wordpress.com/)
+[<img width="40px" src="img/linkedin.png">](https://www.linkedin.com/in/rafaelmasson40)
+[<img width="40px" src="img/web.png">](https://rafaelmasson4.wordpress.com/)
