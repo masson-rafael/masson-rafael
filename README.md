@@ -4,7 +4,7 @@ My name is Rafael Masson, I'm a computer science student from France and current
 
 ## 🔧 Stuff I code with
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,qt,js,html,css,bootstrap,git,github,mysql,php,bash,ubuntu,debian,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,qt,js,html,css,bootstrap,git,github,mysql,php,bash,ubuntu,debian)](https://skillicons.dev)
 
 ## 📫 Connect with me
 
